@@ -4,7 +4,7 @@ This is a repo to show my dogs vs cats model. It is an image classification mode
 
 ### Dataset
 
-Here is a [Kagel](https://www.kaggle.com/c/dogs-vs-cats/data) link for the dogs-vs-cats dataset used. The Dataset contains a total of 25 thousand images of varying sizes, split equally between cat and dog classes.
+Here is a [Kaggel](https://www.kaggle.com/c/dogs-vs-cats/data) link for the dogs-vs-cats dataset used. The Dataset contains a total of 25 thousand images of varying sizes, split equally between cat and dog classes.
 
 ### Installation
 
